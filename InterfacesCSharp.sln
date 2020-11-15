@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitInterfaceMethodImpl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericInterfaces", "GenericInterfaces\GenericInterfaces.csproj", "{40B5E510-A236-4A41-B536-30BE02F14CFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodConstraints", "MethodConstraints\MethodConstraints.csproj", "{1F9F2BFA-2E3C-4F32-87E4-D1911D8E987F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{40B5E510-A236-4A41-B536-30BE02F14CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40B5E510-A236-4A41-B536-30BE02F14CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40B5E510-A236-4A41-B536-30BE02F14CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F9F2BFA-2E3C-4F32-87E4-D1911D8E987F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F9F2BFA-2E3C-4F32-87E4-D1911D8E987F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F9F2BFA-2E3C-4F32-87E4-D1911D8E987F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F9F2BFA-2E3C-4F32-87E4-D1911D8E987F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
