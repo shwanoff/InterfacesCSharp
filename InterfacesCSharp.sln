@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualAndSealedImplementat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallingInterfaceMethod", "CallingInterfaceMethod\CallingInterfaceMethod.csproj", "{9271481A-B7A5-4AB2-AA90-CB20FFD4E728}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitInterfaceMethodImplementation", "ExtinctInterfaceMethodImplementation\ExplicitInterfaceMethodImplementation.csproj", "{952735FB-DE0E-4240-AE1D-84E4EEFC8397}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9271481A-B7A5-4AB2-AA90-CB20FFD4E728}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9271481A-B7A5-4AB2-AA90-CB20FFD4E728}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9271481A-B7A5-4AB2-AA90-CB20FFD4E728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952735FB-DE0E-4240-AE1D-84E4EEFC8397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952735FB-DE0E-4240-AE1D-84E4EEFC8397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952735FB-DE0E-4240-AE1D-84E4EEFC8397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952735FB-DE0E-4240-AE1D-84E4EEFC8397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
