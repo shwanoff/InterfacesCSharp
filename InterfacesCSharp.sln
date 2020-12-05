@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EimiForNoneGenericInterface
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DangerousOfEimi", "DangerousOfEimi\DangerousOfEimi.csproj", "{581353FF-3D61-4213-9394-1F81637C9A44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseClassVsInterface", "BaseClassVsInterface\BaseClassVsInterface.csproj", "{6094EADD-3035-43CE-A694-A19C056E00A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{581353FF-3D61-4213-9394-1F81637C9A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{581353FF-3D61-4213-9394-1F81637C9A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{581353FF-3D61-4213-9394-1F81637C9A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6094EADD-3035-43CE-A694-A19C056E00A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6094EADD-3035-43CE-A694-A19C056E00A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6094EADD-3035-43CE-A694-A19C056E00A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6094EADD-3035-43CE-A694-A19C056E00A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
